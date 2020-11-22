@@ -1,0 +1,13 @@
+D:\QuanLiTiemTraChanh\bin\Debug\netcoreapp3.1\QuanLiTiemTraChanh.exe
+D:\QuanLiTiemTraChanh\bin\Debug\netcoreapp3.1\QuanLiTiemTraChanh.deps.json
+D:\QuanLiTiemTraChanh\bin\Debug\netcoreapp3.1\QuanLiTiemTraChanh.runtimeconfig.json
+D:\QuanLiTiemTraChanh\bin\Debug\netcoreapp3.1\QuanLiTiemTraChanh.runtimeconfig.dev.json
+D:\QuanLiTiemTraChanh\bin\Debug\netcoreapp3.1\QuanLiTiemTraChanh.dll
+D:\QuanLiTiemTraChanh\bin\Debug\netcoreapp3.1\QuanLiTiemTraChanh.pdb
+D:\QuanLiTiemTraChanh\obj\Debug\netcoreapp3.1\QuanLiTiemTraChanh.AssemblyInfoInputs.cache
+D:\QuanLiTiemTraChanh\obj\Debug\netcoreapp3.1\QuanLiTiemTraChanh.AssemblyInfo.cs
+D:\QuanLiTiemTraChanh\obj\Debug\netcoreapp3.1\QuanLiTiemTraChanh.csproj.CoreCompileInputs.cache
+D:\QuanLiTiemTraChanh\obj\Debug\netcoreapp3.1\QuanLiTiemTraChanh.dll
+D:\QuanLiTiemTraChanh\obj\Debug\netcoreapp3.1\QuanLiTiemTraChanh.pdb
+D:\QuanLiTiemTraChanh\obj\Debug\netcoreapp3.1\QuanLiTiemTraChanh.genruntimeconfig.cache
+D:\QuanLiTiemTraChanh\obj\Debug\netcoreapp3.1\QuanLiTiemTraChanh.csprojAssemblyReference.cache
